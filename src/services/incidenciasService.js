@@ -26,3 +26,4 @@ export async function deleteIncidencia(id) {
   const { data } = await api.delete(`/${id}`)
   return data
 }
+
