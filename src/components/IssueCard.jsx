@@ -44,3 +44,4 @@ export default function IssueCard({ incidencia, onEdit, onDelete }) {
     </div>
   )
 }
+
