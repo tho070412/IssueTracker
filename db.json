@@ -1,0 +1,25 @@
+{
+  "incidencias": [
+    {
+      "id": "1",
+      "titulo": "Error al cargar módulo de pagos",
+      "descripcion": "El módulo no responde al confirmar.",
+      "estado": "Pendiente",
+      "prioridad": "Alta"
+    },
+    {
+      "id": "2",
+      "titulo": "Imagen de perfil no se actualiza",
+      "descripcion": "La foto anterior sigue apareciendo hasta recargar.",
+      "estado": "En Progreso",
+      "prioridad": "Media"
+    },
+    {
+      "id": "3",
+      "titulo": "Typo en pantalla de bienvenida",
+      "descripcion": "La palabra bienvenidoo aparece con doble o.",
+      "estado": "Resuelto",
+      "prioridad": "Baja"
+    }
+  ]
+}
