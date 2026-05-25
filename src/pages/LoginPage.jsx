@@ -122,7 +122,7 @@ export default function LoginPage() {
         </div>
 
         <p className="text-center text-muted text-xs font-mono mt-4">
-          v1.0.0 — Prueba Técnica Frontend Jr.
+          v1.0.0 
         </p>
       </div>
     </div>
