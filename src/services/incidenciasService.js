@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE_URL = 'http://localhost:3001/incidencias'
+const BASE_URL = 'https://issue-tracker-api-0xxv.onrender.com/incidencias'
 
 const api = axios.create({
   baseURL: BASE_URL,
