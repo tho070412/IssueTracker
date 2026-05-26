@@ -64,10 +64,8 @@ npm install
 `src/services/incidenciasService.js`
 
 ```js
-const BASE_URL = 'http://localhost:3001/incidencias'
+const BASE_URL = 'https://issue-tracker-api-0xxv.onrender.com/incidencias'
 ```
-**Para activar la API**
-json-server --watch db.json --port 3001
 
 **Estructura del recurso en MockAPI:**
 
